@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=s-icc&top_languages=true&theme=dark&theme=gradient)
+![Codewars](https://github.r2v.ch/codewars?user=s-icc&hide_clan=true&top_languages=true&theme=gradient)
